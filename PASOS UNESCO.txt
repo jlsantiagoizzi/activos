@@ -1,0 +1,16 @@
+PAsos para Correr Instalacion UNESCO
+
+1.-Abrir la Data para prepararla
+
+se verifica el telefono si e que lleva
+se verifica el tecnico del equipo
+se verifica que tenga equipo si es necesario
+se coloca Y y se borra el output
+
+2.-abrir el Test Batch Runner y prepararlo
+
+se selecciona el archivo test.tsp
+se quita el visible
+y una vez seleccionado se pone play
+
+3.-ejecutar el Script y revisar resultados
